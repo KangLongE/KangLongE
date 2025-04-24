@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning front-end
@@ -9,9 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+
 <!--
 **KangLongE/KangLongE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
