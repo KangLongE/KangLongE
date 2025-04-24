@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/kyechan99/capsule-render.git" />
+  <img src="[https://github.com/kyechan99/capsule-render.git](https://github.com/DenverCoder1/readme-typing-svg.git)" />
 </div>
 ## Hi there 👋
 - 🔭 I’m currently working on ...
