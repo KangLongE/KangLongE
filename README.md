@@ -1,7 +1,7 @@
 <div align="center">
   <img src="" />
 </div>
-## Hi there 👋
+## Hi ther
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning front-end
 - 👯 I’m looking to collaborate on ...
